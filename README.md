@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 👀 I’m interested in **software development** and **testing**.
-- 🌱 I’m currently learning **Java**, **Python**, and **networking**.
+- 🌱 I’m currently learning **Java**, **Python**, and **Networking**.
 - 💼 I have almost **1 year of experience** in developing web-based systems and testing websites.
 - 💞️ I’m looking to collaborate on **open-source projects** and **exciting internships**.
 
