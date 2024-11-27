@@ -14,4 +14,6 @@
 - 💻 **Languages:** Java, JavaScript, Python
 - 🖥️ **Tools:** Proxmox, JMeter, Selenium, Sphinx, Visual Studio Code, Virtual Box
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizwafii&layout=compact)
+
 Thanks for visiting my profile! Feel free to connect or check out my repositories below! 😊
